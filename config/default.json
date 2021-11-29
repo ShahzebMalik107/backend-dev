@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb://shahzeb:Hitman47107shahzeb100..@testingpurpus-shard-00-00.hofqm.mongodb.net:27017,testingpurpus-shard-00-01.hofqm.mongodb.net:27017,testingpurpus-shard-00-02.hofqm.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-p1clwv-shard-0&authSource=admin&retryWrites=true&w=majority"
+}
